@@ -15,7 +15,7 @@ Skills: JavaScript, Node, React.
 Interests: Data Science, Distributed Systems, Web Development, New Technologies. 
 
 - 🔭 I’m currently working on my soft skills.
-- 🌱 I’m currently learning the basics of the web through Remix.
+- 🌱 I’m currently learning things about the web through Remix.
 - 💬 Ask me about Javasript, React (though I am always learning...)
 - 📫 How to reach me: idrissaithafid@gmail.com
 - 😄 Pronouns: He/Him.
