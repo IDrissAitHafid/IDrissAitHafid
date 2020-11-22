@@ -9,7 +9,9 @@ For my first professional experience, I was given the opportunity to lead and be
 Even when I leave the office, I tend to continue writing code and learning new stuff.
 So today I am a software engineer having what it takes to build powerful solutions.
 
+
 Skills: JavaScript, Node, React.
+
 Interests: Data Science, Distributed Systems, Web Development, New Technologies. 
 
 - 🔭 I’m currently working on my soft skills.
