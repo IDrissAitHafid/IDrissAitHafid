@@ -19,6 +19,6 @@ Interests: Data Science, Distributed Systems, Web Development, New Technologies.
 - 💬 Ask me about Javasript, React (though I am always learning...)
 - 📫 How to reach me: idrissaithafid@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: When I was 13, I tried to build a website using Power Point.
+- ⚡ Fun fact: When I was 13, I tried to build a music website using Power Point.
 <!---- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
